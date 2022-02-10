@@ -1,0 +1,89 @@
+caption{
+  background-color: blue;
+  color: white;
+}
+th.header{
+  border: 1px solid black;
+
+}
+table{
+  border: 1px solid black;
+  position: relative;
+  width: 100%;
+  background-color: lightgray;
+}
+p.button{
+  border: 1px solid lightgrey;
+  position: relative;
+  width: 20%;
+  height: 40;
+  text-align: center;
+  padding: 10px;
+  border-radius: 7px;
+  color: white;
+  background-color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+p.button2{
+  border: 1px solid lightgrey;
+  position: relative;
+  bottom: 56px;
+  left: 140px;
+  width: 20%;
+  height: 40;
+  text-align: center;
+  padding: 10px;
+  border-radius: 7px;
+  color: white;
+  background-color: burlywood;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p.box{
+  position: relative;
+  height: 200px;
+  background: lightgrey;
+  left: 5%;
+  width: 90%;
+}
+
+p.circle1{
+  position: relative;
+  background: lightcoral;
+  border-radius: 60px;
+  left: 45%;
+  width: 10%;
+  height: 45px;
+  bottom: 200px;
+}
+
+div.text{
+  position: relative;
+  bottom: 210px;
+  left: 35%;
+  width: 30%;
+  text-align: center;
+}
+p.like_button{
+position: relative;
+background: green;
+color: white;
+border-radius: 15px;
+left: 43%;
+width: 10%;
+bottom: 200px;
+text-align: center;
+padding: 10px;
+
+
+}
+
+p.paragraph{
+  position: relative;
+  text-align: center;
+  left: 15%;
+  width: 70%; 
+  background-color: white;
+  bottom: 210px
+}
+
